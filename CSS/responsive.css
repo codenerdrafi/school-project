@@ -122,6 +122,7 @@
     }
     .banner-content p{
         font-size: 14px;
+        width:auto;
         margin: 0 auto;
         padding-bottom: 20px ;
         
